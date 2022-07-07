@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\woocash\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\woocash\\.nuget\\packages"
+    ]
+  }
+}
